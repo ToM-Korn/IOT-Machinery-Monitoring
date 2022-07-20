@@ -1,0 +1,12 @@
+MOTOR
+https://www.primopal.com/phb42s-nema17-16257238183113187.html
+
+PHB42S48-402
+
+Stepper Motor Driver Board 
+https://www.conrad.at/de/p/whadda-wpm333-motortreiber-2481897.html
+
+
+ESP8266 Testboard
+ESP-12F ESP-12E WiFi Entwicklung Bord WeMos D1 WiFi UNO Basierend Drahtlose Modul ESP8266 Schild für Arduino Kompatibel IDE
+https://de.aliexpress.com/item/1005004313938911.html?spm=a2g0o.order_list.0.0.39375c5fzdtGFl&gatewayAdapt=glo2deu
